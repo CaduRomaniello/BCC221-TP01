@@ -1,5 +1,5 @@
 # BCC221-TP01
-Primeiro trabalho prático da disciplina BCC221
+Primeiro trabalho prático da disciplina BCC221 (Programação Orientada a Objetos)
 
 ---
 
